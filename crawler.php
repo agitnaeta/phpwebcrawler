@@ -1,4 +1,4 @@
-<?
+<?php //use this dont use */<?/*
 include("simple_html_dom.php");
 $crawled_urls=array();
 $found_urls=array();
