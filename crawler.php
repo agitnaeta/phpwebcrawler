@@ -1,4 +1,4 @@
-<?
+<?php //use this for new version
 include("simple_html_dom.php");
 $crawled_urls=array();
 $found_urls=array();
